@@ -1,4 +1,4 @@
-# TodoApplication
+# Todo-Application
 This project requires you to login with a valid credinitail then create your todo list, using API integration tool like rest assured and postman.
 
 ToDo-Application
